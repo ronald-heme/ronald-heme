@@ -13,11 +13,16 @@ I'm currently pursuing my Bachelor of Science in Computer Science, working towar
 ## 🚀 About Me
 My interest in computers and technology began long before my formal studies in Computer Science.
 
-Summer of 2018, shortly after graduating 8th grade, I built my own PC. What started as an interest in computer hardware gradually developed into a deeper curiosity about networking, systems, and the technologies that power our everyday lives. A few years later, I took that interest further by upgrading my home network with Cat6 Ethernet cabling and a network switch to improve connectivity and make better use of my internet service. Ive also transferred from community college
+Summer of 2018, shortly after graduating 8th grade, I built my own PC. What started as an interest in computer hardware gradually developed into a deeper curiosity about networking, systems, and the technologies that power our everyday lives. A few years later, I took that interest further by upgrading my home network with Cat6 Ethernet cabling and a network switch to improve connectivity and make better use of my internet service. Ive also transferred from community college completing my Associate's in Computer Science - Engineering, now pursuing further at UIC for Bachelors of Science in Computer Science.
 
 ## 🧠 Technical Skills & Knowledge
 
-<!-- C/C++, R, Python, HTML/CSS -->
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🤝 To connect further...
 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ronald-hemesath/)
