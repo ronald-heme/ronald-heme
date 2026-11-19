@@ -2,10 +2,10 @@
   <img src="GitHubBanner.png" width="100%" alt="My GitHub Banner">
 </p>
 
-## Welcome to my profile! I'm Ronald, 👋
+## 👋 Hi I'm Ronald!
 
-I'm currently attending University of Illinois at Chicago pursuing mt interests in Computer Science.
-I’ve developed many skills such as collaborative problem solving and customer service, among my continued 
-growing interest with computer science. Currently looking for an internship opportunity this spring or 
-summer 2027 in or relating to information technology, embedded software, firmware, systems, and data CS 
-and/or engineering.
+Welcome to my GitHub profile! I'm Ronald, a Computer Science student at the University of Illinois Chicago (UIC), driven by a longstanding interest in computers, technology, and understanding how things work behind the scenes.
+
+From building my first PC in 2018 to exploring computer networks, hardware, and software development, my curiosity about technology has continued to grow. I'm passionate about expanding my technical knowledge, developing practical solutions, and exploring the intersection of software and hardware.
+
+I'm currently pursuing my Bachelor of Science in Computer Science, working toward a future in software engineering, embedded systems, firmware, and information technology.
