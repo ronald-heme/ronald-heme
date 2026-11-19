@@ -25,7 +25,7 @@ Summer of 2018, shortly after graduating 8th grade, I built my own PC. What star
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🤝 To connect further...
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ronald-hemesath/)
+💼 LinkedIn: [ronald-hemesath](https://www.linkedin.com/in/ronald-hemesath/)
 
 💻 GitHub: Explore my repositories
 
