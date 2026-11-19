@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="GitHubBanner.png" width="100%" alt="My GitHub Banner">
+</p>
+
 ## Welcome to my profile! I'm Ronald, 👋
 
 I'm currently attending University of Illinois at Chicago pursuing mt interests in Computer Science.
