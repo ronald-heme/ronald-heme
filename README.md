@@ -18,6 +18,9 @@ Summer of 2018, shortly after graduating 8th grade, I built my own PC. What star
 
 
 ## 🤝 To connect further...
-💼 LinkedIn: [Connect with me] (https://www.linkedin.com/in/ronald-hemesath/)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ronald-hemesath/)
+
 💻 GitHub: Explore my repositories
+
 📧 Email: ronald.hemesath@gmail.com
+
