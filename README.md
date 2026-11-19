@@ -37,6 +37,7 @@ These experiences have helped me develop strong communication, collaboration, ad
 
 I'm currently seeking an **internship opportunity for Spring or Summer 2027** in Information Technology, Embedded Software, Firmware, Systems Engineering, Data, or a related Computer Science and Engineering field.
 
+<br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald-heme&show_icons=true&theme=tokyonight&hide_border=true"/>
