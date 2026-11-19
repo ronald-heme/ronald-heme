@@ -15,6 +15,10 @@ My interest in computers and technology began long before my formal studies in C
 
 Summer of 2018, shortly after graduating 8th grade, I built my own PC. What started as an interest in computer hardware gradually developed into a deeper curiosity about networking, systems, and the technologies that power our everyday lives. A few years later, I took that interest further by upgrading my home network with Cat6 Ethernet cabling and a network switch to improve connectivity and make better use of my internet service. Ive also transferred from community college completing my Associate's in Computer Science - Engineering, now pursuing further at UIC for Bachelors of Science in Computer Science.
 
+Outside of academics, I bring three years of professional experience at Amazon Fresh, where I worked in customer service and supported the Outbound department. My responsibilities included managing the customer service desk, coordinating online orders through a live database, and monitoring operational dashboards for customer pickups and deliveries.
+
+These experiences have helped me develop strong communication, collaboration, adaptability, and problem-solving skills that I continue to apply to my studies and technical interests.
+
 ## 🧠 Technical Skills & Knowledge
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -30,6 +34,9 @@ Summer of 2018, shortly after graduating 8th grade, I built my own PC. What star
 💻 GitHub: Explore my repositories
 
 📧 Email: ronald.hemesath@gmail.com
+
+I'm currently seeking an **internship opportunity for Spring or Summer 2027** in Information Technology, Embedded Software, Firmware, Systems Engineering, Data, or a related Computer Science and Engineering field.
+
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald-heme&show_icons=true&theme=tokyonight&hide_border=true"/>
