@@ -31,3 +31,7 @@ Summer of 2018, shortly after graduating 8th grade, I built my own PC. What star
 
 📧 Email: ronald.hemesath@gmail.com
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
