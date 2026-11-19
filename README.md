@@ -40,6 +40,6 @@ I'm currently seeking an **internship opportunity for Spring or Summer 2027** in
 <br>
 
 <p align="center">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=ronald-heme&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-heme&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ronald-heme&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-heme&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
