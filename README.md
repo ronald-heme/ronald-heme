@@ -15,7 +15,9 @@ My interest in computers and technology began long before my formal studies in C
 
 Summer of 2018, shortly after graduating 8th grade, I built my own PC. What started as an interest in computer hardware gradually developed into a deeper curiosity about networking, systems, and the technologies that power our everyday lives. A few years later, I took that interest further by upgrading my home network with Cat6 Ethernet cabling and a network switch to improve connectivity and make better use of my internet service. Ive also transferred from community college
 
+## 🧠 Technical Skills & Knowledge
 
+<!-- C/C++, R, Python, HTML/CSS -->
 
 ## 🤝 To connect further...
 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ronald-hemesath/)
